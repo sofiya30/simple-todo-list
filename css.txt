@@ -31,3 +31,6 @@ li.completed {
   text-decoration: line-through;
   color: gray;
 }
+/* Commit #4: temporary background color change */
+body { background-color: #f9f9f9; }
+
