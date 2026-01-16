@@ -1,3 +1,5 @@
+// Commit #3: added comment for tracking
+
 function addTask() {
   const taskInput = document.getElementById('taskInput');
   const taskList = document.getElementById('taskList');
@@ -18,3 +20,4 @@ function addTask() {
     taskInput.value = '';
   }
 }
+
